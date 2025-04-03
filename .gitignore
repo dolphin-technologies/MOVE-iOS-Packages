@@ -50,3 +50,4 @@ Thumbs.db
 
 .swiftpm/xcode/package.xcworkspace/xcuserdata
 .swiftpm/xcode/xcuserdata
+.build
