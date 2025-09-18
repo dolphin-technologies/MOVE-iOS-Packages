@@ -14,7 +14,7 @@ let package = Package(
     targets: [
         .binaryTarget(
 			name: "DolphinMoveSDK",
-			url: "https://storage.googleapis.com/cdn.dolph.in/sdk/2.14.1.317/DolphinMoveSDK.xcframework.zip",
-			checksum: "f65e27546c02ea107be1d4a2671cc79d424135ebe3b55177673f329ecb500232")
+			url: "https://storage.googleapis.com/cdn.dolph.in/sdk/2.14.2.318/DolphinMoveSDK.xcframework.zip",
+			checksum: "ebb42f388acd3b438babef6bfdfef32d5b7208dff35bcbfa75b195363d066bbf")
     ]
 )
