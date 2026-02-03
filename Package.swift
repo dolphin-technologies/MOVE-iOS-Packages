@@ -17,11 +17,11 @@ let package = Package(
     targets: [
         .binaryTarget(
 			name: "DolphinMoveSDK",
-			url: "https://storage.googleapis.com/cdn.dolph.in/sdk/2.15.0.331/DolphinMoveSDK.xcframework.zip",
-			checksum: "df3ed81ce9478fa07db79e162f6354c4004e07ee5a755889128b75748a7f0a64"),
+			url: "https://storage.googleapis.com/cdn.dolph.in/sdk/2.16.0.335/DolphinMoveSDK.xcframework.zip",
+			checksum: "12155e999b5f6eae4eaaf36b6f903028bb4e4f4e0818fd36e05aeade22090535"),
 		.binaryTarget(
 			name: "DolphinMoveSDKHealth",
-			url: "https://storage.googleapis.com/cdn.dolph.in/sdk/2.15.0.331/DolphinMoveSDKHealth.xcframework.zip",
-			checksum: "deb9e8d846a39f46670b58ed265d61759885abb970e98566f59e6004cddc28fb")
+			url: "https://storage.googleapis.com/cdn.dolph.in/sdk/2.16.0.335/DolphinMoveSDKHealth.xcframework.zip",
+			checksum: "ea810c697d37e354a8d545ce3dd0c602a08db07ddd1456d31b05863f02f36fa5")
     ]
 )
